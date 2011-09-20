@@ -1,0 +1,8 @@
+{ "name": "Lessons from the trenches: Scaling the everyday app in The Cloud", 
+  "sections": [ 
+    {"section":"intro"}, 
+    {"section" : "yer_app"}, 
+    {"section" : "hardware"},
+    {"section" : "servers"},
+    {"section" : "etc"}
+                                                                                          ]}
