@@ -11,7 +11,8 @@
 # Passenger - Good #
 * Built in worker management.  Can require memory monitoring.
 * Attached at the hip to Nginx.  "Less moving parts"
-* Zero Downtime Deploy &#x2122;	
+* Zero Downtime Deploy &#x2122;
+* (Passegner 3 only)
 * Easier to debug when shit hits the fan. 
 
 !SLIDE bullets incremental small
@@ -19,14 +20,15 @@
 # Passenger - Bad #
 * Shit will hit the fan.
 * hardcoded backlog, doesn't respect /proc/sys/net/core/somaxconn.  Shit hits fan.
-* No Nginx proxy directives <http://blog.phusion.nl/2011/08/03/phusion-passenger-3-0-8-released>
-* Shit hits fan with _lots_ of apps
+* No Nginx proxy directives 
+* <http://blog.phusion.nl/2011/08/03/phusion-passenger-3-0-8-released>
+* _lots_ of app on an instances tends to be problems
 * Spawns workers as needed.  min_instances is your friend
 
 !SLIDE bullets incremental small
 # Unicorn - Good
 * Still not that complicated
-* More like Mongrel - can use Nginx proxy directives & Unix sockets
+* More like Mongrel - proxy directives FTW
 * Doesn't seem to break quite as much
 * Zero Downtime Deploy &#x2122;	
 * Unicorn master does a good job

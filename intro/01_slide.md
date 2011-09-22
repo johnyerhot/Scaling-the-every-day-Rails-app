@@ -1,4 +1,5 @@
-!SLIDE
+!SLIDE center
+![web scale](webscale.jpg)
 # Lessons from the Trenches: #
 ##  Scaling the Everyday App in The Cloud ##
 
@@ -11,7 +12,7 @@
 * Work at Engine Yard
 
 !SLIDE bullets incremental
-# I fix broken shit. #
+# I fix broken stuff. #
 
 !SLIDE bullets incremental 
 
@@ -19,7 +20,7 @@
 * decent dev
 * not much a sysadmin/ops
 * "successful" app
-* VPS is starting to not work so well
+* solo VPS is starting to not work so well
 
 !SLIDE
 

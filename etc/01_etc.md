@@ -2,7 +2,8 @@
 # Logging #
 * log everything
 * just add _n_ more app servers
-* more servers = more breaks = need logs
+* mo servers mo problems
+* need logs to fix 'em
 
 !SLIDE bullets incremental
 # Shared assets
@@ -18,3 +19,9 @@
 * frozen, long running, etc...
 * CloudKick <https://www.cloudkick.com/>
 * SiteUpTime <http://www.siteuptime.com/>
+
+!SLIDE bullets
+
+# Questions? #
+
+* <http://rubymn-9-26-2011.john.yerhot.org>

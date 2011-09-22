@@ -41,7 +41,7 @@
 
 # Find weakness #
 * Not caches\_page’ing, caches\_action’ing, and fragment caching
-* Shitty SQL 
+  * Shitty SQL 
 * External Everything
 * (api calls to twitter)
 
