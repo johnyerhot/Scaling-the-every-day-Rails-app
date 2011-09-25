@@ -1,7 +1,8 @@
 !SLIDE
-# Know Yer App #
+# Part 1 #
+## Know Your App ##
 
-!SLIDE bullets incremental
+!SLIDE bullets
 
 # Understand it #
 * New Relic
@@ -16,11 +17,11 @@
 !SLIDE center
 ![New Relic](nr2.png)
 
-!SLIDE bullets incremental
+!SLIDE bullets
 
-# Profile yer App #
+# Profile Your App #
 * AB is not that great.
-* Use a real tool like Apache JMeter
+* Use a real tool like Apache JMeter.
 
 !SLIDE center
 ![Jmeter](jmeter.png)
@@ -28,43 +29,45 @@
 !SLIDE 
 # Huge learning curve, but very worth it #
 
-!SLIDE bullets incremental small
+!SLIDE bullets small
 * test plans and threads
 * per worker (thread) cookies
 * dynamic data
 * conditions
 * monitor servers, mysql, etc...
-* plugins
+* plugins galore
 * full of awesome
 
-!SLIDE bullets incremental
+!SLIDE bullets
 
 # Find weakness #
-* Not caches\_page’ing, caches\_action’ing, and fragment caching
-* Shitty SQL 
-* External Everything
-* (api calls to twitter)
 
-!SLIDE bullets incremental
+!SLIDE bullets
 
-# Crazy things in views #
-* ..like
+* Not caches\_page’ing, caches\_action’ing, and fragment caching eveything & anything
+* External Everything (api calls, etc..)
 * .each without using :include 
 
-!SLIDE bullets incremental
+!SLIDE bullets
+* ###_Shitty SQL_###
+
+
+!SLIDE bullets center
 
 * ActionMailering, Reporting, Processing inside an action
 * Move to the background yo
 
-!SLIDE bullets incremental small
+!SLIDE bullets small
 
-# use Resque #
+# Resque to the Resue #
+
+!SLIDE bullets
 * emailing users
 * rmagicking
 * tarballing
 * reporting
 * gather external
-* deleting, adding, updating, altering
+* mass deleting, adding, updating, altering
 * _anything_ that would otherwise chew up a worker
 
 !SLIDE bullets incremental

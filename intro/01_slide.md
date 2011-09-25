@@ -1,26 +1,26 @@
 !SLIDE center
 ![web scale](webscale.jpg)
-# Lessons from the Trenches: #
-##  Scaling the Everyday App in The Cloud ##
+#  Scaling the Everyday App#
 
-!SLIDE bullets incremental
+!SLIDE bullets
 # Who Am I? #
-
-* MN (Duluth)
-* Chicago
-* MN (MSP)
-* Work at Engine Yard
+* been a dev on small and large teams
+* ops-ish stuff - amature sysadmin
 
 !SLIDE bullets incremental
-# I fix broken stuff. #
+# I fix/help scale customers at Engine Yard.
 
-!SLIDE bullets incremental 
+!SLIDE bullets
 
 # Who are you? #
 * decent dev
-* not much a sysadmin/ops
+* play a sysadmin on tv
 * "successful" app
 * solo VPS is starting to not work so well
+
+!SLIDE bullets
+# Not Twitter or Groupon.
+# You're the sweet spot.
 
 !SLIDE
 

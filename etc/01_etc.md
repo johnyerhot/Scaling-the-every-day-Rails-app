@@ -1,27 +1,44 @@
-!SLIDE bullets incremental
+!SLIDE
+
 # Logging #
-* log everything
-* just add _n_ more app servers
-* mo servers mo problems
-* need logs to fix 'em
 
-!SLIDE bullets incremental
+!SLIDE bullets
+
+* Log everything.
+* Mo servers mo problems.
+* Need logs to fix 'em.
+* Just add _n_ more app servers if you're worried about performance.
+* Please no `error_log /dev/null;`
+
+!SLIDE bullets
+
 # Shared assets
-* S3
-* cheap
-* fast
-* everyone is doing it for a reason
 
-!SLIDE bullets incremental
-# Watch yer app & processes #
+!SLIDE bullets
+
+# Amzn S3
+## Everyone is doing it for a reason ##
+
+!SLIDE
+# Watch your App  & Processes #
+
+!SLIDE bullets
+
 * monit & god
 * bloat
 * frozen, long running, etc...
-* CloudKick <https://www.cloudkick.com/>
-* SiteUpTime <http://www.siteuptime.com/>
+
+!SLIDE
+
+CloudKick <https://www.cloudkick.com/>
+
+SiteUpTime <http://www.siteuptime.com/>
 
 !SLIDE bullets
 
 # Questions? #
 
 * <http://rubymn-9-26-2011.john.yerhot.org>
+* <http://twitter/yerhot>
+* john@yerhot.org || jyerhot@engineyard.com
+
