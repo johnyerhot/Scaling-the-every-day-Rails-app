@@ -1,5 +1,6 @@
 !SLIDE bullets
-# Hardware #
+# Part II #
+## Hardware ##
 * (virtual)
 
 !SLIDE bullets
