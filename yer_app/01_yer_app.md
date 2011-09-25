@@ -4,7 +4,9 @@
 
 !SLIDE bullets
 
-# Understand it #
+# Really Understand it #
+
+!SLIDE bullets
 * New Relic
 * Scout
 * ruby-prof
@@ -20,6 +22,9 @@
 !SLIDE bullets
 
 # Profile Your App #
+
+!SLIDE bullets
+
 * AB is not that great.
 * Use a real tool like Apache JMeter.
 
@@ -27,16 +32,16 @@
 ![Jmeter](jmeter.png)
 
 !SLIDE 
-# Huge learning curve, but very worth it #
+# Huge learning curve, but very worth it. #
 
 !SLIDE bullets small
-* test plans and threads
-* per worker (thread) cookies
-* dynamic data
-* conditions
+* test plans and threads.
+* per worker (thread) cookies.
+* dynamic data.
+* conditions.
 * monitor servers, mysql, etc...
-* plugins galore
-* full of awesome
+* plugins galore.
+* _full of awesome_.
 
 !SLIDE bullets
 
