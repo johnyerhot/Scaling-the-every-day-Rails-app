@@ -44,5 +44,5 @@ SiteUpTime <http://www.siteuptime.com/>
 
 * <http://rubymn-9-26-2011.john.yerhot.org>
 * <http://twitter/yerhot>
-* john@yerhot.org || jyerhot@engineyard.com
+* john@yerhot.org
 
