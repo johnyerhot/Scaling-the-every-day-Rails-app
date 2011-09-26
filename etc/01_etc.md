@@ -30,8 +30,7 @@
 !SLIDE bullets
 
 * monit & god
-* bloat
-* frozen, long running, etc...
+* app bloat
 
 !SLIDE
 

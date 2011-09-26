@@ -35,7 +35,7 @@
 * No Nginx proxy directives (timeouts, header size, etc..)
 * <http://blog.phusion.nl/2011/08/03/phusion-passenger-3-0-8-released>
 * _lots_ of app on an instances tends to be problems.
-* Spawns workers as needed.  min_instances is your friend.
+* Spawns workers as needed.  `min_instances` is your friend.
 * Restarting under high load. Shit hits fan.
 
 !SLIDE bullets small incremental
@@ -53,7 +53,7 @@
 
 !SLIDE bullets incremental
 
-# Uncicorn #
+# Unicorn #
 * the bad
 
 !SLIDE bullets

@@ -14,16 +14,17 @@
 
 # Who are you? #
 
-* decent dev
-* play a sysadmin on tv
-* "successful" app
-* solo VPS is starting to not work so well
-
 !SLIDE bullets
 # Not Twitter or Groupon.
 
 !SLIDE bullets
 # You're the sweet spot.
+
+!SLIDE bullets
+* decent dev
+* play a sysadmin on tv
+* "successful" app
+* solo VPS is starting to not work so well
 
 !SLIDE
 
