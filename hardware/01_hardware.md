@@ -9,7 +9,7 @@
 * one server: App + DB + Cron + Resque + Mongo
 * 4 CPU, 8G memory
 * gets crappy quick
-* IO contention city
+* IO contention
 
 !SLIDE bullets
 
