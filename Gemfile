@@ -1,5 +1,5 @@
 source :rubygems
 gem 'bluecloth'
 gem 'nokogiri'
-gem 'showoff'
+gem 'showoff', '>= 0.20.3'
 gem 'gli'
